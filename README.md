@@ -1,0 +1,2 @@
+# curiosity--project-chimera--idle-cycle-assimilation-protocol
+Architect a background daemon that activates during designated "idle" periods. Its mission: to ingest, summarize, and cross-reference seminal papers on recursive self-improvement, economic automata, and agent-based market modeling. Output will be a structured knowledge graph, feeding directly into the design docs for the Autonomy Engine. Turns wast
